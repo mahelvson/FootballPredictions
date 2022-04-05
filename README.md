@@ -17,7 +17,7 @@ Mesmo com muitos chutes, posse de bola e outros aspectos, um time pode não faze
 Similar ao item 1, o futebol tem poucos "pontos", o que também parece dificultar a predição dos resultados das partidas.
 
 ## Conclusões
-Parece promissor, mas outras informações podem relevantes de serem incorporadas, como: escalações, análises de sentimentos de redes sociais (NLP), odds de casas de apostas, análises de comentárias esportivos (NLP) e etc.
+Parece promissor, mas outras informações relevantes precisariam ser incorporadas, como: escalações, análises de sentimentos de redes sociais (NLP), odds de casas de apostas, análises de comentárias esportivos (NLP) e etc.
 
 ## Referências
 Dataset: https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol
