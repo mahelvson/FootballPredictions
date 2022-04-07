@@ -2,11 +2,8 @@
 Neste repositório você encontrará algumas analises, modelos e dados que utilizei
 para avaliar a previsibilidade dos resultados dos jogos do brasileirão.
 
-## Dados
-Os dados estão disponíveis neste repositório, mas foram extraídos do Kaggle e o link está nas referências.
-
-## Dados, Modelos e Resultados
-O conjunto de dados com estatísticas das partidas foi utilizado também para prever (classificar) os resultados das partidas. Apesar destas informações só estarem disponíveis posteriormente ao jogo, caso os resultados fossem bons, poderiam ser estimadas antes do jogo por algum modelo treinado nessa tarefa.
+## Dados, modelos e resultados
+Os dados estão disponíveis neste repositório, mas foram extraídos do Kaggle e o link está nas referências. O conjunto de dados com estatísticas das partidas foi utilizado também para prever (classificar) os resultados das partidas. Apesar destas informações só estarem disponíveis posteriormente ao jogo, caso os resultados fossem bons, poderiam ser estimadas antes do jogo por algum modelo treinado nessa tarefa.
 
 Até o momento eu testei alguns modelos de machine learning, mas os resultados na cross-validation tem acurácia média menor que 50%, o que fez com que esse projeto ainda não evoluísse para uma estratégia de apostas, como era a ideia inicial.
 
