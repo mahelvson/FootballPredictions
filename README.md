@@ -1,4 +1,4 @@
-# Foot - previsão do resultado de jogos do Campeonato Brasileiro
+# FootballPredictions - previsão do resultado de jogos do Campeonato Brasileiro
 Neste repositório você encontrará algumas analises, modelos e dados que utilizei
 para avaliar a previsibilidade dos resultados dos jogos do brasileirão.
 
